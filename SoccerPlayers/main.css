@@ -18,3 +18,15 @@ html {
 background-position:center;
   background-attachment:fixed;
 }
+nav {
+display:table;
+    width:100%;
+    
+}
+nav ul {
+    display:table-row;
+}
+nav li {
+    display:table-cell;
+    text-align:center;
+}
