@@ -1,9 +1,12 @@
 body {
     background-color: CadetBlue;
-    width: 80%;
+    width: 90%;
     margin: auto;
     padding-top: 1px;
     margin-top: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 header {
   text-align: center;
